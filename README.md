@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [Azure Data Factory by Example: Practical Implementation for Data Engineers](https://www.link.springer.com/book/10.1007/9798868802171) by 	
+This repository accompanies [Azure Data Factory by Example: Practical Implementation for Data Engineers](https://link.springer.com/book/10.1007/979-8-8688-0218-8) by 	
 Richard Swinbank (SpringerNature, 2024).
 
 [comment]: #cover
