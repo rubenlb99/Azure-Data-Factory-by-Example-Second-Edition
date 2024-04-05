@@ -1,0 +1,4 @@
+@greater(
+    activity('Import sales data').output.rowsSkipped
+    , 0
+)

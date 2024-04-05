@@ -1,0 +1,8 @@
+@if(
+    equals(
+        activity('Import sales data').output.executionDetails[0].status
+        ,'Failed'
+    )
+    ,'Failed'
+    ,'Done'
+)
