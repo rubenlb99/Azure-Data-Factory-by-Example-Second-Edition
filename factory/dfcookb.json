@@ -1,0 +1,9 @@
+{
+	"name": "dfcookb",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "30097734-1994-4979-8fc7-367cf1ec7304",
+		"tenantId": "8d2b4e7a-6c03-4edc-9e3a-d709ae1c0399"
+	}
+}
